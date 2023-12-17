@@ -8,4 +8,3 @@ I am currently studying Informatics engineering at Universitas Muhammadiyah Maka
 - My personal branding website : [Mamanwhide](https://maman-whide.vercel.app/)
 
 [![An image of @mamanwhide's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mamanwhide)](https://holopin.io/@mamanwhide)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="788ae564-8709-4417-9e38-7880050a3044" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
